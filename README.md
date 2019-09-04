@@ -20,7 +20,7 @@
 ## Medium Reading
 - one medium article each session.
 August 22nd: https://medium.com/@mindfiresolutions.usa/advantages-and-disadvantages-of-python-programming-language-fd0b394f2121
-August 26th: https://medium.com/free-code-camp/time-is-complex-but-priceless-f0abd015063c
+- August 26th: https://medium.com/free-code-camp/time-is-complex-but-priceless-f0abd015063c
 
 
 ## Kaggle Project
