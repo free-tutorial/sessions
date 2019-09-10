@@ -57,7 +57,7 @@ A5 = {i:i*i for i in A1}
 A6 = [[i,i*i] for i in A1]
 ```
 
-6. Let `x = [1, 2, 3, 4]`, `y = [1, 2, 3, 4]`. How do you produce `z = [1, 4, 9, 16]`?
+6. Let `x = [1, 2, 3, 4]`, `y = [1, 2, 3, 4]`. How do you produce `z = [1, 4, 9, 16]` with list comprehension?
 
 ```python
 x = [1, 2, 3, 4]
