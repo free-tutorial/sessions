@@ -9,7 +9,7 @@ x, y = [1, 2, 3], ['1', '2', '3']
 print(x*3, y*3)
 ```
 
-2. Type of `*args` and `*kwargs`?
+2. Type of `*args` and `**kwargs`?
 
 ```python
 def func(a, b, c, ..., *args, **keywords):
