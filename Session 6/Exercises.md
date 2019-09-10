@@ -12,7 +12,7 @@ print(x*3, y*3)
 2. Type of `*args` and `**kwargs`?
 
 ```python
-def func(a, b, c, ..., *args, **keywords):
+def func(a, b, c, ..., *args, **kwargs):
 ```
 
 3. Define a tuple with length = 1.
