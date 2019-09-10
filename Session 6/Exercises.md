@@ -57,7 +57,7 @@ A5 = {i:i*i for i in A1}
 A6 = [[i,i*i] for i in A1]
 ```
 
-6. Let `x = [1, 2, 3, 4]`, `y = [1, 2, 3, 4]`. How do you produce `z = [1, 4, 9, 16]` with list comprehension?
+6. Let `x = [1, 2, 3, 4]`, `y = [2, 2, 3, 4]`. How do you produce `z = [1, 4, 9, 16]` with list comprehension?
 
 ```python
 x = [1, 2, 3, 4]
@@ -137,14 +137,14 @@ def read_file(path):
     :rtype: List[Text]
     "
 ```
-2. write a program that prints `0` to `100` without using any loop (`for`, `while`, ...).
+3. write a program that prints `0` to `100` without using any loop (`for`, `while`, ...).
 
 - Hint: Use recursive functions!
 ```python
 # code here
 ```
 
-3. Find Minimum in Rotated Sorted Array
+4. Find Minimum in Rotated Sorted Array
 
 Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand.
 
