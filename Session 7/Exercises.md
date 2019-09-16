@@ -206,6 +206,7 @@ f2(1,2,*t,q="winning",**d) # ?
    1. Write a function that can decode a German message provided a constant shift.
 
 > Solution: `decode(message, shift)` function
+
 ```python
 def decode(message, shift):
     decoded_message = ""
@@ -231,8 +232,8 @@ with open("message.txt") as f:
    1. What is the time and space complexity of decode function? what about your final code?
 
 > Solution:
-> `decode(message, shift)` function: O(N) [N is the number of chars in message]
-> final code: O(N) [reading the file] + 128 * O(N + N) [N for shifting, N for lower casing] = O(N)
+> - `decode(message, shift)` function: O(N) [N is the number of chars in message]
+> - final code: O(N) [reading the file] + 128 * O(N + N) [N for shifting, N for lower casing] = O(N)
 
 
 1. Read a text file and extract all unique words
