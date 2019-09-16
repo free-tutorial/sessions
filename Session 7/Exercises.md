@@ -108,7 +108,9 @@ y = [1, 2, 3, 4]
 z = # code here
 ```
 
-> Solution: `z = [i*j for i, j in zip(x, y)]`
+> Solution: 
+> `z = [i*j for i, j in zip(x, y)]`
+> `[x[i]*y[i] for i in range(len(x))]` # Sahand's approach, MUST bring sweets next session (session 8)
 
 7. `print` output?
 
