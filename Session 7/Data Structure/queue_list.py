@@ -1,3 +1,5 @@
+"""Access time complexity comparison of list and queue.
+"""
 from tqdm import tqdm
 from collections import deque
 from time import clock
