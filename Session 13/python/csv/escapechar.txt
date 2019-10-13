@@ -1,0 +1,3 @@
+name,department,birthday month,address
+John Smith,Accounting,November,10715 84 ave\, NW
+Erica Meyers,IT,March,10101 80 ave\, S
