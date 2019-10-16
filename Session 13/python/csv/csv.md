@@ -62,5 +62,6 @@ The quotechar optional parameter tells the writer which character to use to quot
 - If quoting is set to `csv.QUOTE_NONE`, then `.writerow()` will escape delimiters instead of quoting them. In this case, you also must provide a value for the escapechar optional parameter.
   - `csv_writer = csv.writer(csv_file, quoting=csv.QUOTE_NONE, escapechar='\\')`
 
+
 ## References
 - https://realpython.com/python-csv/
