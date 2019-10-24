@@ -82,6 +82,12 @@ dtype('O')
 1
 >>> s.is_unique
 True
+>>> s.describe()
+count          7
+unique         4
+top         Amir
+freq           1
+Name: name, dtype: object
 ```
 
 2. 
