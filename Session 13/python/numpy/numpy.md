@@ -547,6 +547,16 @@ array([[0, 0, 0, 1, 1, 1, 2, 2, 2, 3, 3, 3],
        [4, 4, 4, 5, 5, 5, 6, 6, 6, 7, 7, 7]])
 ```
 
+## Save `numpy` Array
+
+```python
+>>> x = np.arange(10)
+>>> np.save("./array.npy", x)
+>>> y = np.load("./array.npy")
+>>> np.equal(x, y).all()
+True
+```
+
 ## References
 - https://webcourses.ucf.edu/courses/1249560/pages/python-lists-vs-numpy-arrays-what-is-the-difference
 - https://stackoverflow.com/questions/993984/what-are-the-advantages-of-numpy-over-regular-python-lists
