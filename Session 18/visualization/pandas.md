@@ -166,7 +166,7 @@ Pandas tries to be pragmatic about plotting DataFrames or Series that contain mi
 
 |Plot Type|`NaN` Handling|
 |--|--|
-|Line| gaps at NaNs|
+|Line|gaps at NaNs|
 |Line|stacked)	Fill 0’s|
 |Bar| 0’s|
 |Scatter| NaNs|
