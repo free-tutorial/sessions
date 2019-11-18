@@ -13,7 +13,13 @@
 |||Plotly||||
 ||Other|BeautifulSoup||||
 |||RE||||
-|Algorithms||||||
+|Algorithms|Big-O||x|||
+|Algorithms|Sorting|||||
+|Data Structure|Hash Table||x|||
+||Queue||x|||
+||Stack||x|||
+||Linked List||x|||
+||Array||x|||
 |Databases|Relational|MySQL||||
 |||SQLite||||
 ||Non-Relational|MongoDB||||
