@@ -4,15 +4,15 @@
 |Skills|||Basics|Intermediate|Advanced|
 |--|--|--|--|--|--|
 |Operating Systems|Linux||x|||
-|Programming|Python||x|x||
-|||Pandas|x|x||
-|||Matplotlib|x|x||
-|||Seaborn|x|x||
-|||Plotly||||
-|||BeautifulSoup||||
-|||RE||||
+|Python|Basic Programming||x|x||
+||EDA|Pandas|x|x||
 |||Numpy|x|x||
 |||scipy||||
+||Visualization|Matplotlib|x|x||
+|||Seaborn|x|x||
+|||Plotly||||
+||Other|BeautifulSoup||||
+|||RE||||
 |Algorithms||||||
 |Databases|Relational|MySQL||||
 |||SQLite||||
@@ -25,6 +25,8 @@
 |Editor|VS Code||x|||
 |Tools|ZSH|||||
 |IT/Network|SSH|||||
+|||||||
+|||||||
 |||||||
 |||||||
 
