@@ -3,7 +3,7 @@
 
 |Skills|||Basics|Intermediate|Advanced|
 |--|--|--|--|--|--|
-|Operating Systems|Linux||x|||
+|Operating Systems|Linux|Basic Terminal Commands|x|||
 |Python|Basic Programming||x|x||
 ||EDA|Pandas|x|x||
 |||Numpy|x|x||
@@ -14,7 +14,7 @@
 ||Other|BeautifulSoup||||
 |||RE||||
 |Algorithms|Big-O||x|||
-|Algorithms|Sorting|||||
+||Sorting|||||
 |Data Structure|Hash Table||x|||
 ||Queue||x|||
 ||Stack||x|||
