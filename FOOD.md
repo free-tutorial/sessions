@@ -1,15 +1,16 @@
 # Food Schedule
 
+- [x] Ghazaleh
 - [x] Danesh
 - [x] Sahand
 - [x] Mahsa
 - [x] Reza
 - [x] Sajjad
-- [ ] Yousef [next]
+- [x] Yousef
 - [ ] Yousef
-- [ ] Ehsan
+- [x] Ehsan
 - [ ] Yashar
-- [ ] Samin
+- [ ] Yashar
 - [ ] Bahador
 - [ ] Mehrtash
 - [ ] Ali
