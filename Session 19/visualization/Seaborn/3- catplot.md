@@ -144,6 +144,11 @@ sns.catplot(x="deck", kind="count", palette="ch:.25", data=titanic)
 
 Note: See sns color palettes [here](https://seaborn.pydata.org/tutorial/color_palettes.html).
 
+**Error bars** can communicate the following information about your data:
+- How spread the data are around the mean value (small SD bar = low spread, data are clumped around the mean; larger SD bar = larger spread, data are more variable from the mean).
+- The reliability of the mean value as a representative number for the data set.  In other words, how accurately the mean value represents the data (small SD bar = more reliable, larger SD bar = less reliable). It's important to note that just because you have a larger SD, it does not indicate your data is not valid. Biological measurements are notoriously variable.
+- The likelihood of there being a significant difference between between data sets.
+
 ### Point Plot
 An alternative style for visualizing the same information is offered by the `pointplot()` function. This function also encodes the value of the estimate with height on the other axis, but rather than showing a full bar, it plots the point estimate and confidence interval. Additionally, `pointplot()` connects points from the same hue category. This makes it easy to see how the main relationship is changing as a function of the hue semantic, because **your eyes are quite good at picking up on differences of slopes**:
 

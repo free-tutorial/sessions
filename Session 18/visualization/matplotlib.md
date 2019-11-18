@@ -41,7 +41,7 @@ Alright, you’re off to create your first plot yourself with Python! As you hav
 # Import `pyplot`
 import matplotlib.pyplot as plt
 
-# Initialize a Figure 
+# Initialize a Figure
 fig = plt.figure()
 
 # Add Axes to the Figure
