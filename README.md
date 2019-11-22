@@ -5,14 +5,15 @@
 |--|--|--|--|--|--|
 |Operating Systems|Linux|Basic Terminal Commands|x|||
 |Python|Basic Programming||x|x||
-||EDA|Pandas|x|x||
-|||Numpy|x|x||
-|||scipy||||
+||EDA|`pandas`|x|x||
+|||`numpy`|x|x||
+|||`scipy`||||
 ||Visualization|Matplotlib|x|x||
-|||Seaborn|x|x||
-|||Plotly||||
-||Other|BeautifulSoup||||
-|||RE||||
+|||`seaborn`|x|x||
+|||`plotly`||||
+||Other|`BeautifulSoup`||||
+|||`RE`||||
+|||`pytest`||||
 |Algorithms|Big-O||x|||
 ||Sorting|||||
 |Data Structure|Hash Table||x|||
@@ -23,11 +24,11 @@
 |Databases|Relational|MySQL||||
 |||SQLite||||
 ||Non-Relational|MongoDB||||
-|Machine Learning|Classic|sklearn||||
-|||NLTK||||
-||Deep|Tensorflow||||
-|||pytorch||||
-|||Gensim||||
+|Machine Learning|Classic|`sklearn`||||
+|||`NLTK`||||
+||Deep|`tensorflow`||||
+|||`pytorch`||||
+|||`gensim`||||
 |Editor|VS Code||x|||
 |Tools|ZSH|||||
 |IT/Network|SSH|||||
@@ -35,6 +36,9 @@
 |||||||
 |||||||
 |||||||
+
+
+
 
 ## Kaggle
 - Titanic
